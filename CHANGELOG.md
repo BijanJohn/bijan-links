@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.0] - 2026-02-10
+
+### Changed
+- Reordered links: Substack, Personal Website, BijanTech.com, LinkedIn, YouTube
+- Replaced "Blog" link with Substack (bijanyoga.substack.com)
+
+### Added
+- CNAME file for custom domain (links.bijanrahnamai.com)
+
 ## [1.0.0] - 2025-01-26
 
 ### Added
