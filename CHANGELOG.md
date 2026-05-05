@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.0] - 2026-05-05
+
+### Added
+- VERSION file at project root as single source of truth for version number
+- Poetry link (bijanrahnamai.com/poetry/)
+- Learn Bahasa Indonesia link (jadiindo.com)
+
+### Changed
+- Renamed "Personal Website" link to "Blog", now points to bijanrahnamai.com/blog/
+- Removed icons from all link buttons (and unused `.icon` CSS rule)
+
+### Removed
+- Substack link
+- LinkedIn link
+- YouTube link
+
 ## [1.1.0] - 2026-02-10
 
 ### Changed
