@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1] - 2026-05-05
+
+### Changed
+- Updated heading from "Bijan Tech" to "Bijan John"
+- Updated tagline to "Anything worth doing, is worth doing slowly"
+- Updated page title to "Bijan John | Links"
+
 ## [1.2.0] - 2026-05-05
 
 ### Added
